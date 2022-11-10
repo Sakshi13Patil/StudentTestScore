@@ -25,12 +25,3 @@ public class Main {
     }
 }
 
-
-//
-//        {
-//        "id"   : "UC11A347"
-//        "name" : "Manav Awasthi",
-//        "percentageScores" :{
-//        "MATH":"20"
-//        }
-//        }
